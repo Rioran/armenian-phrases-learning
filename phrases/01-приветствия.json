@@ -40,5 +40,107 @@
         "russian_hint": "литературно",
         "transcription": "vokhchuyn",
         "armenian": "Ողջույն։"
+    },
+    {
+        "russian": "Пока.",
+        "russian_hint": "литературно",
+        "transcription": "arayzhm",
+        "armenian": "Առայժմ։"
+    },
+    {
+        "russian": "Счастливо.",
+        "russian_hint": "удачи, успехов",
+        "transcription": "hajoghootyoon",
+        "armenian": "Հաջողություն։"
+    },
+    {
+        "russian": "Пока.",
+        "russian_hint": "насовсем",
+        "transcription": "hajogh",
+        "armenian": "Հաջող։"
+    },
+    {
+        "russian": "До свидания.",
+        "russian_hint": "",
+        "transcription": "tstesootyoon",
+        "armenian": "Ցտեսություն։"
+    },
+    {
+        "russian": "До встречи.",
+        "russian_hint": "",
+        "transcription": "minch handip’oom",
+        "armenian": "Մինչ հանդիպում։"
+    },
+    {
+        "russian": "Спасибо.",
+        "russian_hint": "",
+        "transcription": "shnorakalootyoon",
+        "armenian": "Շնորհակալություն։"
+    },
+    {
+        "russian": "Пожалуйста.",
+        "russian_hint": "",
+        "transcription": "khntrem",
+        "armenian": "Խնդրեմ։"
+    },
+    {
+        "russian": "Прошу.",
+        "russian_hint": "",
+        "transcription": "khntroom em",
+        "armenian": "Խնդրում եմ։"
+    },
+    {
+        "russian": "Извини.",
+        "russian_hint": "",
+        "transcription": "kneres",
+        "armenian": "Կներես։"
+    },
+    {
+        "russian": "Извините.",
+        "russian_hint": "",
+        "transcription": "knereq",
+        "armenian": "Կներեք։"
+    },
+    {
+        "russian": "Прости.",
+        "russian_hint": "",
+        "transcription": "nerir",
+        "armenian": "Ներիր։"
+    },
+    {
+        "russian": "Простите.",
+        "russian_hint": "",
+        "transcription": "neretseq",
+        "armenian": "Ներեցեք։"
+    },
+    {
+        "russian": "Извинение.",
+        "russian_hint": "прощение",
+        "transcription": "neroghootyoon",
+        "armenian": "Ներողություն։"
+    },
+    {
+        "russian": "Приятного аппетита.",
+        "russian_hint": "",
+        "transcription": "bari akhorzhak",
+        "armenian": "Բարի ախորժակ։"
+    },
+    {
+        "russian": "Добро пожаловать.",
+        "russian_hint": "",
+        "transcription": "bari galoost",
+        "armenian": "Բարի գալուստ։"
+    },
+    {
+        "russian": "Счастливого пути.",
+        "russian_hint": "",
+        "transcription": "bari j’anapar",
+        "armenian": "Բարի ճանապարհ։"
+    },
+    {
+        "russian": "Будь здоров.",
+        "russian_hint": "",
+        "transcription": "arokhchootyoon",
+        "armenian": "Առողջություն։"
     }
 ]
