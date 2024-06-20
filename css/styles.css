@@ -1,6 +1,7 @@
 body {
     background-color: aquamarine;
     font-size: 20px;
+    text-align: center;
     margin-left: max(16px, 5vw);
     margin-right: max(16px, 5vw);
 }
@@ -8,53 +9,55 @@ body {
 main {
     display: grid;
     grid-template-columns: repeat(1, minmax(0, 1fr));
-    gap: 5px;
+    margin: 5px;
+    gap: 0px;
 }
 
-.short-sausage {
-    grid-column: span 2;
-}
-
-.medium-sausage {
-    grid-column: span 3;
-}
-
-.long-sausage {
-    grid-column: span 6;
+.phrase_russian_hint_div, .phrase_russian_div, .phrase_hidden_div, .phrase_transcript_div, .phrase_armenian_div {
+    grid-column: span 1;
+    min-height: max(15vh, 40px);
+    font-size: min(15vh, 40px);
     align-content: center;
-}
-
-.short-sausage, .medium-sausage, .long-sausage {
-    min-height: 10vh;
-    font-size: 20px;
-}
-
-.text-sausage {
     text-align: center;
-    align-content: center;
+    border: 1px solid black;
 }
 
-.user-typed {
-    background-color: gainsboro;
+.phrase_russian_div {
+    background-color: darkgreen;
+    color: white;
 }
 
-.user-will-type {
-    background-color: white;
+.phrase_russian_hint_div {
+    background-color: darkgreen;
+    color: white;
 }
 
-.user-results {
-    background-color: lightgoldenrodyellow;
+.phrase_hidden_div {
+    background-color: black;
+    color: white;
+}
+
+.phrase_transcript_div {
+    background-color: darkgreen;
+    color: white;
+}
+
+.phrase_armenian_div {
+    background-color: darkgreen;
+    color: white;
 }
 
 .phrase_choice_button {
     background-color: darkgreen;
-    border: 1px solid black;
+    border: 0px solid black;
     border-radius: 6px;
     box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
     box-sizing: border-box;
     color: #fff;
     cursor: pointer;
     padding: 10px;
+    margin: 5px;
+    min-height: max(10vh, 20px);
 }
 
 textarea {
