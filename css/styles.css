@@ -7,7 +7,7 @@ body {
 
 main {
     display: grid;
-    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-columns: repeat(1, minmax(0, 1fr));
     gap: 5px;
 }
 
@@ -46,14 +46,15 @@ main {
     background-color: lightgoldenrodyellow;
 }
 
-button {
-    background-color: #2ea44f;
-    border: 1px solid rgba(27, 31, 35, .15);
+.phrase_choice_button {
+    background-color: darkgreen;
+    border: 1px solid black;
     border-radius: 6px;
     box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
     box-sizing: border-box;
     color: #fff;
-    cursor: pointer;  
+    cursor: pointer;
+    padding: 10px;
 }
 
 textarea {

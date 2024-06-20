@@ -1,5 +1,5 @@
-# simple-typing-test
-JS project for simple typing speed testing. Many projects lack the ability to insert a user custom text and to repeat it multiple times. Which I fixed.
+# Armenian phrases
+JS+HTML project to aid Russian-speaking users in learning Armenian Phrases.
 
 # hosted on
-GitHub Pages: https://rioran.github.io/simple-typing-test/
+GitHub Pages: https://rioran.github.io/armenian-phrases-learning/

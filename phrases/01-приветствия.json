@@ -1,0 +1,44 @@
+[
+    {
+        "russian": "Доброе утро.",
+        "russian_hint": "как свет",
+        "transcription": "bari luys",
+        "armenian": "Բարի լույս։"
+    },
+    {
+        "russian": "Доброе утро.",
+        "russian_hint": "литературно",
+        "transcription": "bari aravot",
+        "armenian": "Բարի արավոտ։"
+    },
+    {
+        "russian": "Добрый день.",
+        "russian_hint": "",
+        "transcription": "bari or",
+        "armenian": "Բարի օր։"
+    },
+    {
+        "russian": "Добрый вечер.",
+        "russian_hint": "",
+        "transcription": "bari ereko",
+        "armenian": "Բարի երեկո։"
+    },
+    {
+        "russian": "Здравствуй.",
+        "russian_hint": "как привет",
+        "transcription": "barev",
+        "armenian": "Բարև։"
+    },
+    {
+        "russian": "Здравствуйте.",
+        "russian_hint": "",
+        "transcription": "barev dzes",
+        "armenian": "Բարև ձեզ։"
+    },
+    {
+        "russian": "Привет.",
+        "russian_hint": "литературно",
+        "transcription": "vokhchuyn",
+        "armenian": "Ողջույն։"
+    }
+]

@@ -6,12 +6,12 @@
 
     <title>Rio Typing Test</title>
     <link rel="icon" type="image/x-icon" href="static/favicon.ico">
-    <meta name="description" content="Rio Typing Test.">
-    <meta name="author" content="Roman "Rioran" Voronov">
+    <meta name="description" content="Rio Armenian Phrases.">
+    <meta name="author" content='Roman "Rioran" Voronov'>
 
-    <meta property="og:title" content="Rio Typing Test">
+    <meta property="og:title" content="Rio Armenian Phrases">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://rioran.github.io/simple-typing-test">
+    <meta property="og:url" content="https://rioran.github.io/armenain-phrases-learning">
     <meta property="og:description" content="Rio Typing Test">
 
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
@@ -19,40 +19,21 @@
 
     <link href="css/styles.css" rel="stylesheet">
 </head>
-<body onload="entry_point();">
+<body>
     <header>
-        <h1>Rio Typing Test</h1>
+        <h1>Rio Armenian Phrases</h1>
     </header>
-    <p>Paste or type the text you want to roll, select the number of repeats and push da START button.</p>
-    <main>
-        <textarea
-            type="text"
-            class="long-sausage"
-            id="main_user_text"
-            name="main_user_text"
-            cols="100"
-            onchange="udpate_main_user_text()"
-        ></textarea>
-
-        <button type="button" class="short-sausage" id="less_button" onclick="less_repeats();">🤏🏻 Less</button>
-        <input type="number" class="short-sausage" id="repeats_number" name="repeats_number" min="1" value="5" onchange="update_repeats_variable();" style="text-align:center;">
-        <button type="button" class="short-sausage" id="more_button" onclick="more_repeats();">👆🏻 More</button>
-
-        <button type="button" class="medium-sausage" id="restart_button" onclick="window.location.reload();">🔄 Reset</button>
-        <button type="button" class="medium-sausage" id="start_button" onclick="start_game();">🚀 Start</button>
-
-        <div class="medium-sausage text-sausage user-typed" id="typed_chars">What you typed.</div>
-        <div class="medium-sausage text-sausage user-will-type" id="next_chars">What you will type.</div>
-
-        <div class="long-sausage text-sausage user-results" id="stat_results">Play to see results.</div>
+    <main id="main">
+        <p>Выбери набор фраз для повторения:</p>
     </main>
 
     <footer>
         <p>&copy; <a href="https://www.linkedin.com/in/rioran/">Roman "Rioran" Voronov</a>, <script>
             document.write(new Date().getFullYear())
         </script></p>
+        <p>При содействии с (вставить имя и ссылку на школу).</p>
     </footer>
 
-    <script src="js/code.js"></script>
+    <script src="js/code.js" onload="entry_point();" async></script>
 </body>
 </html>
