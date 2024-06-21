@@ -21,7 +21,6 @@ function get_phrases_json(phrases_file) {
 
 function reveal_full_phrase() {
     let phrase = phrases[phrases_index];
-    console.log('phrase: ' + phrase);
     let html = '';
 
     html += '<div class="phrase_russian_div" onclick="show_phrase_riddle();">' + phrase['russian'] + '</div>';
@@ -39,7 +38,6 @@ function show_phrase_riddle() {
     }
 
     let phrase = phrases[phrases_index];
-    console.log('phrase: ' + phrase);
     let html = '';
 
     html += '<div class="phrase_russian_div" onclick="reveal_full_phrase();">' + phrase['russian'] + '</div>';
@@ -54,7 +52,6 @@ function select_phrases_file(button) {
     let html = '';
     let name = button.innerText;
     phrases = get_phrases_json(name);
-    console.log('data: ' + phrases);
     show_phrase_riddle();
 }
 
