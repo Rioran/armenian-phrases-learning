@@ -1,0 +1,56 @@
+[
+    {
+        "russian": "Обо мне.",
+        "russian_hint": "",
+        "transcription": "im masin",
+        "armenian": "Իմ մսսին։"
+    },
+    {
+        "russian": "Меня зовут Роман.",
+        "russian_hint": "",
+        "transcription": "im anune roman e",
+        "armenian": "Իմ անունե Րոման ե։"
+    },
+    {
+        "russian": "Мне 33 года.",
+        "russian_hint": "",
+        "transcription": "yes yeresun yerek tarekan em",
+        "armenian": "Ես երեսուն երեք տարեկան եմ։"
+    },
+    {
+        "russian": "Я живу в Армении.",
+        "russian_hint": "",
+        "transcription": "yes aprum em hayastanum",
+        "armenian": "Ես ապրում եմ Հայաստանում։"
+    },
+    {
+        "russian": "Я из России.",
+        "russian_hint": "",
+        "transcription": "yes rusastanits em",
+        "armenian": "Ես Ռուսաստանից եմ։"
+    },
+    {
+        "russian": "Я женат.",
+        "russian_hint": "",
+        "transcription": "es amusnatsats em",
+        "armenian": "Ես ամուսնացաց եմ։"
+    },
+    {
+        "russian": "Я Python-програмист и учитель.",
+        "russian_hint": "",
+        "transcription": "yes paytoni tsragravorogh ev usutsich em",
+        "armenian": "Ես պայտոնի ցրագրավորող և ուսուցիչ եմ։"
+    },
+    {
+        "russian": "У меня одна дочка.",
+        "russian_hint": "",
+        "transcription": "yes unem mek aghchik",
+        "armenian": "Ես ունեմ մեկ ախչիկ։"
+    },
+    {
+        "russian": "В свободное время я люблю наслаждаться.",
+        "russian_hint": "",
+        "transcription": "azat zhamanak yes sirum em vayelel",
+        "armenian": "Ազատ ձամանակ ես սիրում եմ վայելել։"
+    }
+]

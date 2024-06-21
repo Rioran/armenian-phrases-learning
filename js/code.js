@@ -1,8 +1,9 @@
 const phrases_folder = "phrases/";
 const phrases_files = [
-    "00-случайное",
+    //"00-случайное",  // debug purposes
     "01-приветствия",
     "02-местоимения",
+    "03-обо-мне",
 ];
 const div_main = document.getElementById("main");
 
