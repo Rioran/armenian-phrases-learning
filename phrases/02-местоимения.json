@@ -1,0 +1,86 @@
+[
+    {
+        "russian": "Я.",
+        "russian_hint": "",
+        "transcription": "yes",
+        "armenian": "Ես։"
+    },
+    {
+        "russian": "Ты.",
+        "russian_hint": "",
+        "transcription": "du",
+        "armenian": "Դու։"
+    },
+    {
+        "russian": "Он.",
+        "russian_hint": "она, оно",
+        "transcription": "na",
+        "armenian": "Նա։"
+    },
+    {
+        "russian": "Он.",
+        "russian_hint": "она, оно, разговорное",
+        "transcription": "inqn",
+        "armenian": "Ինքն։"
+    },
+    {
+        "russian": "Мы.",
+        "russian_hint": "",
+        "transcription": "menq",
+        "armenian": "Մենք։"
+    },
+    {
+        "russian": "Вы.",
+        "russian_hint": "",
+        "transcription": "duq",
+        "armenian": "Դուք։"
+    },
+    {
+        "russian": "Они.",
+        "russian_hint": "",
+        "transcription": "nranq",
+        "armenian": "Նրանք։"
+    },
+    {
+        "russian": "Мой.",
+        "russian_hint": "моя, моё, мои",
+        "transcription": "im",
+        "armenian": "Իմ։"
+    },
+    {
+        "russian": "Твой.",
+        "russian_hint": "твоя, твоё, твои",
+        "transcription": "ko",
+        "armenian": "Քո։"
+    },
+    {
+        "russian": "Его.",
+        "russian_hint": "её, притяжательное",
+        "transcription": "nra",
+        "armenian": "Նրա։"
+    },
+    {
+        "russian": "Его.",
+        "russian_hint": "её, разговорное притяжательное",
+        "transcription": "ira",
+        "armenian": "Իրա։"
+    },
+    {
+        "russian": "Наш.",
+        "russian_hint": "наше, наша, наши",
+        "transcription": "mer",
+        "armenian": "Մեր։"
+    },
+    {
+        "russian": "Ваш.",
+        "russian_hint": "ваше, ваша, ваши",
+        "transcription": "dzer",
+        "armenian": "Ձեր։"
+    },
+    {
+        "russian": "Их.",
+        "russian_hint": "притяжательное",
+        "transcription": "nrants",
+        "armenian": "Նրանց։"
+    }
+]

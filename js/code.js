@@ -2,6 +2,7 @@ const phrases_folder = "phrases/";
 const phrases_files = [
     "00-случайное",
     "01-приветствия",
+    "02-местоимения",
 ];
 const div_main = document.getElementById("main");
 
@@ -28,13 +29,14 @@ function reveal_full_phrase() {
     html += '<div class="phrase_armenian_div" onclick="show_phrase_riddle();">' + phrase['armenian'] + '</div>';
     div_main.innerHTML = html;
     phrases_index += 1;
-    if (phrases_index == phrases.length) {
-        location.reload();
-    }
 }
 
 
 function show_phrase_riddle() {
+    if (phrases_index == phrases.length) {
+        location.reload();
+    }
+
     let phrase = phrases[phrases_index];
     console.log('phrase: ' + phrase);
     let html = '';
