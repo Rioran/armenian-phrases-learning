@@ -20,8 +20,8 @@
     {
         "russian": "Он.",
         "russian_hint": "она, оно, разговорное",
-        "transcription": "inqn",
-        "armenian": "Ինքն։"
+        "transcription": "inqn / inqe",
+        "armenian": "Ինքն։ / Ինքը։"
     },
     {
         "russian": "Мы.",
@@ -40,6 +40,12 @@
         "russian_hint": "",
         "transcription": "nranq",
         "armenian": "Նրանք։"
+    },
+    {
+        "russian": "Они.",
+        "russian_hint": "разговорное",
+        "transcription": "iranq",
+        "armenian": "Իրանք։"
     },
     {
         "russian": "Мой.",

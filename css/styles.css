@@ -60,10 +60,6 @@ main {
     min-height: max(10vh, 20px);
 }
 
-textarea {
-    padding: 5%;
-}
-
 header {
     border-bottom: 1px solid black;
 }
