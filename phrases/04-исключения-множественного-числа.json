@@ -1,0 +1,206 @@
+[
+    {
+        "russian": "груз",
+        "russian_hint": "",
+        "transcription": "berr",
+        "armenian": "բեռ"
+    },
+    {
+        "russian": "грузы",
+        "russian_hint": "",
+        "transcription": "berrner",
+        "armenian": "բեռներ"
+    },
+    {
+        "russian": "ягненок",
+        "russian_hint": "",
+        "transcription": "garr",
+        "armenian": "գառ"
+    },
+    {
+        "russian": "ягнята",
+        "russian_hint": "",
+        "transcription": "garrner",
+        "armenian": "գառներ"
+    },
+    {
+        "russian": "дверь",
+        "russian_hint": "",
+        "transcription": "durr",
+        "armenian": "դուռ"
+    },
+    {
+        "russian": "двери",
+        "russian_hint": "",
+        "transcription": "drrner",
+        "armenian": "դռներ"
+    },
+    {
+        "russian": "вол",
+        "russian_hint": "",
+        "transcription": "ez",
+        "armenian": "եզ"
+    },
+    {
+        "russian": "волы",
+        "russian_hint": "",
+        "transcription": "ezner",
+        "armenian": "եզներ"
+    },
+    {
+        "russian": "внук",
+        "russian_hint": "",
+        "transcription": "t’orr",
+        "armenian": "թոռ"
+    },
+    {
+        "russian": "внуки",
+        "russian_hint": "",
+        "transcription": "t’orrner",
+        "armenian": "թոռներ"
+    },
+    {
+        "russian": "правнук",
+        "russian_hint": "",
+        "transcription": "ts’orr",
+        "armenian": "ծոռ"
+    },
+    {
+        "russian": "правннуки",
+        "russian_hint": "",
+        "transcription": "ts’orrner",
+        "armenian": "ծոռներ"
+    },
+    {
+        "russian": "колено",
+        "russian_hint": "",
+        "transcription": "ts’unk",
+        "armenian": "ծունկ"
+    },
+    {
+        "russian": "колени",
+        "russian_hint": "",
+        "transcription": "ts’nkner",
+        "armenian": "ծնկներ"
+    },
+    {
+        "russian": "рыба",
+        "russian_hint": "",
+        "transcription": "dzuk",
+        "armenian": "ձուկ"
+    },
+    {
+        "russian": "рыбы",
+        "russian_hint": "",
+        "transcription": "dzkner",
+        "armenian": "ձկներ"
+    },
+    {
+        "russian": "мышь",
+        "russian_hint": "",
+        "transcription": "muk",
+        "armenian": "մուկ"
+    },
+    {
+        "russian": "мыши",
+        "russian_hint": "",
+        "transcription": "mkner",
+        "armenian": "մկներ"
+    },
+    {
+        "russian": "гранат",
+        "russian_hint": "",
+        "transcription": "nurr",
+        "armenian": "նուռ"
+    },
+    {
+        "russian": "гранаты",
+        "russian_hint": "",
+        "transcription": "nrrner",
+        "armenian": "նռներ"
+    },
+    {
+        "russian": "палец",
+        "russian_hint": "",
+        "transcription": "mat",
+        "armenian": "մատ"
+    },
+    {
+        "russian": "пальцы",
+        "russian_hint": "",
+        "transcription": "matner",
+        "armenian": "մատներ"
+    },
+    {
+        "russian": "невеста",
+        "russian_hint": "",
+        "transcription": "hars",
+        "armenian": "հարս"
+    },
+    {
+        "russian": "невесты",
+        "russian_hint": "",
+        "transcription": "harsner",
+        "armenian": "հարսներ"
+    },
+    {
+        "russian": "человек",
+        "russian_hint": "",
+        "transcription": "mart’",
+        "armenian": "մարդ"
+    },
+    {
+        "russian": "люди",
+        "russian_hint": "",
+        "transcription": "mart’ik",
+        "armenian": "մարդիկ"
+    },
+    {
+        "russian": "женщина",
+        "russian_hint": "жена",
+        "transcription": "kin",
+        "armenian": "կին"
+    },
+    {
+        "russian": "женщины",
+        "russian_hint": "жёны",
+        "transcription": "kanayq",
+        "armenian": "կանայք"
+    },
+    {
+        "russian": "мужчина",
+        "russian_hint": "",
+        "transcription": "tghamart’",
+        "armenian": "տղամարդ"
+    },
+    {
+        "russian": "мужчины",
+        "russian_hint": "",
+        "transcription": "tghamart’ik",
+        "armenian": "տղամարդիկ"
+    },
+    {
+        "russian": "дама",
+        "russian_hint": "",
+        "transcription": "tikin",
+        "armenian": "տիկին"
+    },
+    {
+        "russian": "дамы",
+        "russian_hint": "",
+        "transcription": "tiknayq",
+        "armenian": "տիկնայք"
+    },
+    {
+        "russian": "господин",
+        "russian_hint": "мистер",
+        "transcription": "paron",
+        "armenian": "պարոն"
+    },
+    {
+        "russian": "господа",
+        "russian_hint": "",
+        "transcription": "paronayq",
+        "armenian": "պարոնայք"
+    }
+]

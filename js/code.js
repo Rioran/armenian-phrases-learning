@@ -4,6 +4,7 @@ const phrases_files = [
     "01-приветствия",
     "02-местоимения",
     "03-обо-мне",
+    "04-исключения-множественного-числа",
 ];
 const div_main = document.getElementById("main");
 
