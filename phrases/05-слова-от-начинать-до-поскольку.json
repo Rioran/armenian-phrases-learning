@@ -1,0 +1,146 @@
+[
+    {
+        "russian": "Начинать",
+        "russian_hint": "",
+        "transcription": "sksel",
+        "armenian": "սկսել"
+    },
+    {
+        "russian": "заканчивать",
+        "russian_hint": "",
+        "transcription": "verchatsnel",
+        "armenian": "վերջացնել"
+    },
+    {
+        "russian": "заканчиваться",
+        "russian_hint": "",
+        "transcription": "verchanal",
+        "armenian": "վերջանալ"
+    },
+    {
+        "russian": "Конец",
+        "russian_hint": "",
+        "transcription": "verch",
+        "armenian": "վերջ"
+    },
+    {
+        "russian": "Последний",
+        "russian_hint": "",
+        "transcription": "verchin",
+        "armenian": "Վերջին"
+    },
+    {
+        "russian": "Кто последний?",
+        "russian_hint": "",
+        "transcription": "Verchinə ov e?",
+        "armenian": "Վերջինը ո՞վ է։"
+    },
+    {
+        "russian": "начало",
+        "russian_hint": "",
+        "transcription": "skizb",
+        "armenian": "սկիզբ"
+    },
+    {
+        "russian": "вопрос",
+        "russian_hint": "",
+        "transcription": "harts",
+        "armenian": "հարց"
+    },
+    {
+        "russian": "спрашивать",
+        "russian_hint": "",
+        "transcription": "hartsnel",
+        "armenian": "հարցնել"
+    },
+    {
+        "russian": "ответ",
+        "russian_hint": "",
+        "transcription": "pataskhan",
+        "armenian": "պատասխան"
+    },
+    {
+        "russian": "ответить",
+        "russian_hint": "отвечать",
+        "transcription": "pataskhanel",
+        "armenian": "պատասխանել"
+    },
+    {
+        "russian": "писать",
+        "russian_hint": "",
+        "transcription": "grel",
+        "armenian": "գրել"
+    },
+    {
+        "russian": "думать",
+        "russian_hint": "",
+        "transcription": "mtatsel",
+        "armenian": "մտածել"
+    },
+    {
+        "russian": "делать",
+        "russian_hint": "сделать",
+        "transcription": "anel",
+        "armenian": "անել"
+    },
+    {
+        "russian": "сказать",
+        "russian_hint": "говорить, to say",
+        "transcription": "asel",
+        "armenian": "ասել"
+    },
+    {
+        "russian": "разговаривать",
+        "russian_hint": "говорить , to speak, to talk",
+        "transcription": "khosel",
+        "armenian": "խոսել"
+    },
+    {
+        "russian": "рассказывать",
+        "russian_hint": "to tell",
+        "transcription": "patmel",
+        "armenian": "պատմել"
+    },
+    {
+        "russian": "друзья",
+        "russian_hint": "",
+        "transcription": "ənkerner",
+        "armenian": "ընկերներ"
+    },
+    {
+        "russian": "мочь",
+        "russian_hint": "",
+        "transcription": "karoghanal",
+        "armenian": "կարողանալ"
+    },
+    {
+        "russian": "могу",
+        "russian_hint": "",
+        "transcription": "karogh em",
+        "armenian": "կարող եմ"
+    },
+    {
+        "russian": "можно",
+        "russian_hint": "",
+        "transcription": "kareli e",
+        "armenian": "կարելի է"
+    },
+    {
+        "russian": "Нельзя",
+        "russian_hint": "",
+        "transcription": "chi kareli",
+        "armenian": "չի կարելի"
+    },
+    {
+        "russian": "возможно",
+        "russian_hint": "",
+        "transcription": "hnaravor e",
+        "armenian": "հնարավոր է"
+    },
+    {
+        "russian": "поскольку",
+        "russian_hint": "так как",
+        "transcription": "qani vor",
+        "armenian": "քանի որ"
+    }
+]
